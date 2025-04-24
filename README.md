@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wathilaaa&label=Profile%20views&color=0e75b6&style=flat" alt="wathilaaa" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wathilaaa" alt="wathilaaa" /></a> </p>
-
 - 🌱 I’m currently learning **bachelor of Information and Communication Technology at Swinburne University of Technology, Australia**
 
 - 📫 How to reach me **wathilahewage@icloud.com**
@@ -21,4 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wathilaaa&show_icons=true&locale=en&layout=compact" alt="wathilaaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wathilaaa&show_icons=true&locale=en" alt="wathilaaa" /></p>
-
